@@ -55,7 +55,7 @@ function renderData(items) {
                 <div class="item-details">
                     <div class="item-names">
                         <p class="item-name">${name}</p>
-                        <p class="price">$$${price}/-</p>
+                        <p class="price">$ ${price}/-</p>
                     </div>
                     <button class="add-button">
                         <img src="./assets/Images/add-button.png" alt="">
